@@ -1,0 +1,12 @@
+/home/g5/Submissions/SoftwareEngineering/visitorChallenge (spotbugs)/visitorChallengeBugs/src/main/java/visit/exception/BusinessRuleViolation.java
+/home/g5/Submissions/SoftwareEngineering/visitorChallenge (spotbugs)/visitorChallengeBugs/src/main/java/visit/exception/SystemError.java
+/home/g5/Submissions/SoftwareEngineering/visitorChallenge (spotbugs)/visitorChallengeBugs/src/main/java/visit/NamedEntity.java
+/home/g5/Submissions/SoftwareEngineering/visitorChallenge (spotbugs)/visitorChallengeBugs/src/main/java/visit/INamedEntity.java
+/home/g5/Submissions/SoftwareEngineering/visitorChallenge (spotbugs)/visitorChallengeBugs/src/main/java/visit/exception/AuthorizationException.java
+/home/g5/Submissions/SoftwareEngineering/visitorChallenge (spotbugs)/visitorChallengeBugs/src/main/java/visit/exception/SearchException.java
+/home/g5/Submissions/SoftwareEngineering/visitorChallenge (spotbugs)/visitorChallengeBugs/src/main/java/visit/exception/ServiceException.java
+/home/g5/Submissions/SoftwareEngineering/visitorChallenge (spotbugs)/visitorChallengeBugs/src/main/java/visit/Main.java
+/home/g5/Submissions/SoftwareEngineering/visitorChallenge (spotbugs)/visitorChallengeBugs/src/main/java/visit/exception/DuplicateEntityViolation.java
+/home/g5/Submissions/SoftwareEngineering/visitorChallenge (spotbugs)/visitorChallengeBugs/src/main/java/visit/exception/BusinessException.java
+/home/g5/Submissions/SoftwareEngineering/visitorChallenge (spotbugs)/visitorChallengeBugs/src/main/java/visit/StaticCodeExample.java
+/home/g5/Submissions/SoftwareEngineering/visitorChallenge (spotbugs)/visitorChallengeBugs/src/main/java/visit/StaticCodeBug.java
